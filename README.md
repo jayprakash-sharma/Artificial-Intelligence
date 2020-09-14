@@ -1,2 +1,2 @@
-# Artificial-Intelligence
-Resources for Arificial Intelligence, Machine Learning and Data Science
+# Machine Learning and Artificial Intelligence
+Resources for Machine Learning, Arificial Intelligence and Data Science
